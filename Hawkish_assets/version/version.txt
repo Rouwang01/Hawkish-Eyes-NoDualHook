@@ -26,3 +26,4 @@ StringStruct(u'ProductVersion', u'5.0.0.0.5489')])
 VarFileInfo([VarStruct(u'Translation', [1033, 1200])])
 ]
 )
+
